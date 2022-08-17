@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  color-demo:
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+      artifacthub.io/links: |
+        - name: support
+          url: https://github.com/mehabhalodiya/color-demo/issues
+    apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-08-17T03:27:10.83951217Z"
+    description: A Helm chart for the Color Demo
+    digest: 3f8ad5f29c9c60931d5bde17421d7216da308a629b436c033b83e64d2016ea2d
+    home: https://github.com/mehabhalodiya
+    icon: https://www.svgrepo.com/show/247499/paint-roller-roller.svg
+    keywords:
+    - color-demo
+    name: color-demo
+    sources:
+    - https://github.com/mehabhalodiya/color-demo
+    type: application
+    urls:
+    - https://github.com/mehabhalodiya/color-demo/releases/download/color-demo-0.0.1/color-demo-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-08-17T03:27:10.83952077Z"
