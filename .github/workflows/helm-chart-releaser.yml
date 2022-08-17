@@ -6,7 +6,7 @@ on:
       - "main"
     paths:
       - 'chart/**'
-      - '!chart/keptn-flux-integration/templates/README.md'
+      - '!chart/color-demo/templates/README.md'
     paths-ignore:  
 
 jobs:
